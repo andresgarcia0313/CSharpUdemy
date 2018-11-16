@@ -1,0 +1,8 @@
+cd C:\Users\andre\Desarrollo\CSharp\Aprender\Sistema
+git init
+git add *
+git commit -m "Commit Inicial"
+git remote add origin https://github.com/andresgarcia0313/CSharpUdemy.git
+git push -u origin master
+doskey /history
+doskey /history >> gitInicial.txt
