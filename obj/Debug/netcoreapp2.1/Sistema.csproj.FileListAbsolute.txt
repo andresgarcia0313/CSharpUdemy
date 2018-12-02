@@ -1,32 +1,64 @@
-C:\Users\andre\Desarrollo\CSharp\Aprender\Sistema\bin\Debug\netcoreapp2.1\Sistema.deps.json
-C:\Users\andre\Desarrollo\CSharp\Aprender\Sistema\bin\Debug\netcoreapp2.1\Sistema.runtimeconfig.json
-C:\Users\andre\Desarrollo\CSharp\Aprender\Sistema\bin\Debug\netcoreapp2.1\Sistema.runtimeconfig.dev.json
-C:\Users\andre\Desarrollo\CSharp\Aprender\Sistema\bin\Debug\netcoreapp2.1\Sistema.dll
-C:\Users\andre\Desarrollo\CSharp\Aprender\Sistema\bin\Debug\netcoreapp2.1\Sistema.pdb
-C:\Users\andre\Desarrollo\CSharp\Aprender\Sistema\bin\Debug\netcoreapp2.1\Sistema.Views.dll
-C:\Users\andre\Desarrollo\CSharp\Aprender\Sistema\bin\Debug\netcoreapp2.1\Sistema.Views.pdb
-C:\Users\andre\Desarrollo\CSharp\Aprender\Sistema\obj\Debug\netcoreapp2.1\Sistema.csprojAssemblyReference.cache
-C:\Users\andre\Desarrollo\CSharp\Aprender\Sistema\obj\Debug\netcoreapp2.1\Sistema.csproj.CoreCompileInputs.cache
-C:\Users\andre\Desarrollo\CSharp\Aprender\Sistema\obj\Debug\netcoreapp2.1\Sistema.RazorAssemblyInfo.cache
-C:\Users\andre\Desarrollo\CSharp\Aprender\Sistema\obj\Debug\netcoreapp2.1\Sistema.RazorAssemblyInfo.cs
-C:\Users\andre\Desarrollo\CSharp\Aprender\Sistema\obj\Debug\netcoreapp2.1\Sistema.AssemblyInfoInputs.cache
-C:\Users\andre\Desarrollo\CSharp\Aprender\Sistema\obj\Debug\netcoreapp2.1\Sistema.AssemblyInfo.cs
-C:\Users\andre\Desarrollo\CSharp\Aprender\Sistema\obj\Debug\netcoreapp2.1\Sistema.TagHelpers.input.cache
-C:\Users\andre\Desarrollo\CSharp\Aprender\Sistema\obj\Debug\netcoreapp2.1\Sistema.TagHelpers.output.cache
-C:\Users\andre\Desarrollo\CSharp\Aprender\Sistema\obj\Debug\netcoreapp2.1\Sistema.RazorCoreGenerate.cache
-C:\Users\andre\Desarrollo\CSharp\Aprender\Sistema\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
-C:\Users\andre\Desarrollo\CSharp\Aprender\Sistema\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
-C:\Users\andre\Desarrollo\CSharp\Aprender\Sistema\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
-C:\Users\andre\Desarrollo\CSharp\Aprender\Sistema\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
-C:\Users\andre\Desarrollo\CSharp\Aprender\Sistema\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
-C:\Users\andre\Desarrollo\CSharp\Aprender\Sistema\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
-C:\Users\andre\Desarrollo\CSharp\Aprender\Sistema\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
-C:\Users\andre\Desarrollo\CSharp\Aprender\Sistema\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
-C:\Users\andre\Desarrollo\CSharp\Aprender\Sistema\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
-C:\Users\andre\Desarrollo\CSharp\Aprender\Sistema\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
-C:\Users\andre\Desarrollo\CSharp\Aprender\Sistema\obj\Debug\netcoreapp2.1\Sistema.RazorTargetAssemblyInfo.cache
-C:\Users\andre\Desarrollo\CSharp\Aprender\Sistema\obj\Debug\netcoreapp2.1\Sistema.RazorTargetAssemblyInfo.cs
-C:\Users\andre\Desarrollo\CSharp\Aprender\Sistema\obj\Debug\netcoreapp2.1\Sistema.Views.pdb
-C:\Users\andre\Desarrollo\CSharp\Aprender\Sistema\obj\Debug\netcoreapp2.1\Sistema.dll
-C:\Users\andre\Desarrollo\CSharp\Aprender\Sistema\obj\Debug\netcoreapp2.1\Sistema.pdb
-C:\Users\andre\Desarrollo\CSharp\Aprender\Sistema\obj\Debug\netcoreapp2.1\Sistema.csproj.CopyComplete
+C:/Users/andre/Desarrollo/CSharp/Aprender/Sistema/bin/Debug/netcoreapp2.1/Sistema.deps.json
+C:/Users/andre/Desarrollo/CSharp/Aprender/Sistema/bin/Debug/netcoreapp2.1/Sistema.runtimeconfig.json
+C:/Users/andre/Desarrollo/CSharp/Aprender/Sistema/bin/Debug/netcoreapp2.1/Sistema.runtimeconfig.dev.json
+C:/Users/andre/Desarrollo/CSharp/Aprender/Sistema/bin/Debug/netcoreapp2.1/Sistema.dll
+C:/Users/andre/Desarrollo/CSharp/Aprender/Sistema/bin/Debug/netcoreapp2.1/Sistema.pdb
+C:/Users/andre/Desarrollo/CSharp/Aprender/Sistema/bin/Debug/netcoreapp2.1/Sistema.Views.dll
+C:/Users/andre/Desarrollo/CSharp/Aprender/Sistema/bin/Debug/netcoreapp2.1/Sistema.Views.pdb
+C:/Users/andre/Desarrollo/CSharp/Aprender/Sistema/obj/Debug/netcoreapp2.1/Sistema.csprojAssemblyReference.cache
+C:/Users/andre/Desarrollo/CSharp/Aprender/Sistema/obj/Debug/netcoreapp2.1/Sistema.csproj.CoreCompileInputs.cache
+C:/Users/andre/Desarrollo/CSharp/Aprender/Sistema/obj/Debug/netcoreapp2.1/Sistema.RazorAssemblyInfo.cache
+C:/Users/andre/Desarrollo/CSharp/Aprender/Sistema/obj/Debug/netcoreapp2.1/Sistema.RazorAssemblyInfo.cs
+C:/Users/andre/Desarrollo/CSharp/Aprender/Sistema/obj/Debug/netcoreapp2.1/Sistema.AssemblyInfoInputs.cache
+C:/Users/andre/Desarrollo/CSharp/Aprender/Sistema/obj/Debug/netcoreapp2.1/Sistema.AssemblyInfo.cs
+C:/Users/andre/Desarrollo/CSharp/Aprender/Sistema/obj/Debug/netcoreapp2.1/Sistema.TagHelpers.input.cache
+C:/Users/andre/Desarrollo/CSharp/Aprender/Sistema/obj/Debug/netcoreapp2.1/Sistema.TagHelpers.output.cache
+C:/Users/andre/Desarrollo/CSharp/Aprender/Sistema/obj/Debug/netcoreapp2.1/Sistema.RazorCoreGenerate.cache
+C:/Users/andre/Desarrollo/CSharp/Aprender/Sistema/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+C:/Users/andre/Desarrollo/CSharp/Aprender/Sistema/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+C:/Users/andre/Desarrollo/CSharp/Aprender/Sistema/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+C:/Users/andre/Desarrollo/CSharp/Aprender/Sistema/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+C:/Users/andre/Desarrollo/CSharp/Aprender/Sistema/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/andre/Desarrollo/CSharp/Aprender/Sistema/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/andre/Desarrollo/CSharp/Aprender/Sistema/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/andre/Desarrollo/CSharp/Aprender/Sistema/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/andre/Desarrollo/CSharp/Aprender/Sistema/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/andre/Desarrollo/CSharp/Aprender/Sistema/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/andre/Desarrollo/CSharp/Aprender/Sistema/obj/Debug/netcoreapp2.1/Sistema.RazorTargetAssemblyInfo.cache
+C:/Users/andre/Desarrollo/CSharp/Aprender/Sistema/obj/Debug/netcoreapp2.1/Sistema.RazorTargetAssemblyInfo.cs
+C:/Users/andre/Desarrollo/CSharp/Aprender/Sistema/obj/Debug/netcoreapp2.1/Sistema.Views.pdb
+C:/Users/andre/Desarrollo/CSharp/Aprender/Sistema/obj/Debug/netcoreapp2.1/Sistema.dll
+C:/Users/andre/Desarrollo/CSharp/Aprender/Sistema/obj/Debug/netcoreapp2.1/Sistema.pdb
+C:/Users/andre/Desarrollo/CSharp/Aprender/Sistema/obj/Debug/netcoreapp2.1/Sistema.csproj.CopyComplete
+/home/yezny/Desarrollo/C Sharp/NetCore/Learn/Udemy/CSharpUdemy/bin/Debug/netcoreapp2.1/Sistema.deps.json
+/home/yezny/Desarrollo/C Sharp/NetCore/Learn/Udemy/CSharpUdemy/bin/Debug/netcoreapp2.1/Sistema.runtimeconfig.json
+/home/yezny/Desarrollo/C Sharp/NetCore/Learn/Udemy/CSharpUdemy/bin/Debug/netcoreapp2.1/Sistema.runtimeconfig.dev.json
+/home/yezny/Desarrollo/C Sharp/NetCore/Learn/Udemy/CSharpUdemy/bin/Debug/netcoreapp2.1/Sistema.dll
+/home/yezny/Desarrollo/C Sharp/NetCore/Learn/Udemy/CSharpUdemy/bin/Debug/netcoreapp2.1/Sistema.pdb
+/home/yezny/Desarrollo/C Sharp/NetCore/Learn/Udemy/CSharpUdemy/bin/Debug/netcoreapp2.1/Sistema.Views.dll
+/home/yezny/Desarrollo/C Sharp/NetCore/Learn/Udemy/CSharpUdemy/bin/Debug/netcoreapp2.1/Sistema.Views.pdb
+/home/yezny/Desarrollo/C Sharp/NetCore/Learn/Udemy/CSharpUdemy/obj/Debug/netcoreapp2.1/Sistema.csprojAssemblyReference.cache
+/home/yezny/Desarrollo/C Sharp/NetCore/Learn/Udemy/CSharpUdemy/obj/Debug/netcoreapp2.1/Sistema.csproj.CoreCompileInputs.cache
+/home/yezny/Desarrollo/C Sharp/NetCore/Learn/Udemy/CSharpUdemy/obj/Debug/netcoreapp2.1/Sistema.RazorAssemblyInfo.cache
+/home/yezny/Desarrollo/C Sharp/NetCore/Learn/Udemy/CSharpUdemy/obj/Debug/netcoreapp2.1/Sistema.RazorAssemblyInfo.cs
+/home/yezny/Desarrollo/C Sharp/NetCore/Learn/Udemy/CSharpUdemy/obj/Debug/netcoreapp2.1/Sistema.AssemblyInfoInputs.cache
+/home/yezny/Desarrollo/C Sharp/NetCore/Learn/Udemy/CSharpUdemy/obj/Debug/netcoreapp2.1/Sistema.AssemblyInfo.cs
+/home/yezny/Desarrollo/C Sharp/NetCore/Learn/Udemy/CSharpUdemy/obj/Debug/netcoreapp2.1/Sistema.TagHelpers.input.cache
+/home/yezny/Desarrollo/C Sharp/NetCore/Learn/Udemy/CSharpUdemy/obj/Debug/netcoreapp2.1/Sistema.TagHelpers.output.cache
+/home/yezny/Desarrollo/C Sharp/NetCore/Learn/Udemy/CSharpUdemy/obj/Debug/netcoreapp2.1/Sistema.RazorCoreGenerate.cache
+/home/yezny/Desarrollo/C Sharp/NetCore/Learn/Udemy/CSharpUdemy/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+/home/yezny/Desarrollo/C Sharp/NetCore/Learn/Udemy/CSharpUdemy/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+/home/yezny/Desarrollo/C Sharp/NetCore/Learn/Udemy/CSharpUdemy/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/home/yezny/Desarrollo/C Sharp/NetCore/Learn/Udemy/CSharpUdemy/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+/home/yezny/Desarrollo/C Sharp/NetCore/Learn/Udemy/CSharpUdemy/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+/home/yezny/Desarrollo/C Sharp/NetCore/Learn/Udemy/CSharpUdemy/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/home/yezny/Desarrollo/C Sharp/NetCore/Learn/Udemy/CSharpUdemy/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/home/yezny/Desarrollo/C Sharp/NetCore/Learn/Udemy/CSharpUdemy/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/home/yezny/Desarrollo/C Sharp/NetCore/Learn/Udemy/CSharpUdemy/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/home/yezny/Desarrollo/C Sharp/NetCore/Learn/Udemy/CSharpUdemy/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/home/yezny/Desarrollo/C Sharp/NetCore/Learn/Udemy/CSharpUdemy/obj/Debug/netcoreapp2.1/Sistema.RazorTargetAssemblyInfo.cache
+/home/yezny/Desarrollo/C Sharp/NetCore/Learn/Udemy/CSharpUdemy/obj/Debug/netcoreapp2.1/Sistema.RazorTargetAssemblyInfo.cs
+/home/yezny/Desarrollo/C Sharp/NetCore/Learn/Udemy/CSharpUdemy/obj/Debug/netcoreapp2.1/Sistema.Views.pdb
+/home/yezny/Desarrollo/C Sharp/NetCore/Learn/Udemy/CSharpUdemy/obj/Debug/netcoreapp2.1/Sistema.dll
+/home/yezny/Desarrollo/C Sharp/NetCore/Learn/Udemy/CSharpUdemy/obj/Debug/netcoreapp2.1/Sistema.pdb
+/home/yezny/Desarrollo/C Sharp/NetCore/Learn/Udemy/CSharpUdemy/obj/Debug/netcoreapp2.1/Sistema.csproj.CopyComplete
