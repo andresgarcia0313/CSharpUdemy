@@ -6,3 +6,13 @@ git remote add origin https://github.com/andresgarcia0313/CSharpUdemy.git
 git push -u origin master
 doskey /history
 doskey /history >> gitInicial.txt
+
+
+Para Clonar el proyecto y continuar en otro equipo
+
+git clone https://github.com/andresgarcia0313/CSharpUdemy.git
+cd CSharpUdemy/
+dotnet-sdk.dotnet run
+git config user.email "andresgarcia0313@gmail.com"
+git config user.name "andres garcia"
+git config credential.helper 'cache --timeout=3600'
